@@ -3,6 +3,7 @@
 @import url("sidebar.css");
 @import url("main-content.css");
 @import url("footer.css");
+@import url("responsive.css");
 * {
     box-sizing: border-box;
     padding: 0;
