@@ -1,0 +1,12 @@
+.footer {
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer__icon {
+    position: relative;
+    width: 15px;
+    height: 15px;
+    margin-left: 10px;
+}
